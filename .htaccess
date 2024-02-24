@@ -1,4 +1,4 @@
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^([^\.]+)$ $1.html [NC,L]
-ErrorDocument 400 https://dondashirt.veovinci.com
+ErrorDocument 400 https://www.veovinci.com
